@@ -9,6 +9,7 @@ let requests = [];
 // AUTENTICACION
 // ==========================================
 
+
 async function init() {
   const { data: { user }, error } = await db.auth.getUser();
 
