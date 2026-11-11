@@ -1,5 +1,5 @@
-// Supabase > Project Settings > API Keys. Use ONLY the publishable/anon key.
+// Configuración de Supabase - Casa Irati
 window.CASA_IRATI_CONFIG = {
-  url: 'https://TU-PROYECTO.supabase.co',
-  key: 'TU_PUBLISHABLE_KEY'
+  url: 'https://bpjyhjnslocrdmccozyd.supabase.co',
+  key: 'sb_publishable_5JRWhCc5UV8SlKqFBTni9w_ICM6BBej'
 };
